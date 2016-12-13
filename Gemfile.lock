@@ -174,7 +174,7 @@ GEM
     zxcvbn-ruby (0.1.0)
 
 PLATFORMS
-  x86-mingw32
+  ruby
 
 DEPENDENCIES
   annotate
